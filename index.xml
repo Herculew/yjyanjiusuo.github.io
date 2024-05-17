@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>易经研究所</title>
-    <link>http://localhost:1313/</link>
+    <link>https://yjyanjiusuo.github.io/</link>
     <description>Recent content on 易经研究所</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 May 2024 17:43:19 +0800</lastBuildDate>
+    <atom:link href="https://yjyanjiusuo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://yjyanjiusuo.github.io/post/my-first-post/</link>
+      <pubDate>Fri, 17 May 2024 17:43:19 +0800</pubDate>
+      <guid>https://yjyanjiusuo.github.io/post/my-first-post/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
