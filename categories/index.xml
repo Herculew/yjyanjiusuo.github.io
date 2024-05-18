@@ -6,6 +6,35 @@
     <description>Recent content in Categories on 易经研究所</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yjyanjiusuo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Releases</title>
+      <link>https://yjyanjiusuo.github.io/categories/releases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yjyanjiusuo.github.io/categories/releases/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tranquilpeak</title>
+      <link>https://yjyanjiusuo.github.io/categories/tranquilpeak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yjyanjiusuo.github.io/categories/tranquilpeak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Showcase</title>
+      <link>https://yjyanjiusuo.github.io/categories/showcase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yjyanjiusuo.github.io/categories/showcase/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>https://yjyanjiusuo.github.io/categories/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yjyanjiusuo.github.io/categories/features/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
