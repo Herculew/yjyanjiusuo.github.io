@@ -1,1 +1,11 @@
 User-agent: *
+Allow: /
+Allow: /docs/
+Allow: /posts/
+Allow: /about/
+Allow: /post/
+Allow: /page/
+Allow: /tags/
+Disallow: /assets/
+
+Sitemap: https://yjyanjiusuo.github.io/sitemap.xml
